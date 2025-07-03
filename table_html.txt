@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" class="uk-table uk-table-divider uk-table-striped uk-table-small" width="981">
+<table border="0" cellpadding="0" cellspacing="0" class="uk-table uk-table-divider uk-table-striped uk-table-small" width="1096">
  <thead>
   <tr>
    <th>
@@ -19,12 +19,18 @@
    </th>
    <th style="text-align: right;">
     Apr'25
+    <br/>
    </th>
    <th style="text-align: right;">
-    %change Apr'25/ Apr'24 USD
+    May'25
+    <br/>
    </th>
    <th style="text-align: right;">
-    %change Apr'25/ Apr'24 LOC
+    %change May'25/ May'24 USD
+    <br/>
+   </th>
+   <th style="text-align: right;">
+    %change May'25/ May'24 LOC
     <br/>
    </th>
   </tr>
@@ -34,22 +40,25 @@
    <td height="18">
     Americas
    </td>
-   <td>
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td>
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td>
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td>
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.2652%;">
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.1729%;">
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -67,13 +76,16 @@
     757,097.09
    </td>
    <td style="text-align: right;">
-    691,196.04
+    695,409.31
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -19.6%
+   <td style="text-align: right;">
+    683,802.93
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -5.6%
+   <td style="text-align: right;">
+    -16.7%
+   </td>
+   <td style="text-align: right;">
+    -2.9%
    </td>
   </tr>
   <tr height="17">
@@ -92,11 +104,14 @@
    <td style="text-align: right;">
     1,901.08
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -4.7%
+   <td style="text-align: right;">
+    1,986.56
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -4.7%
+   <td style="text-align: right;">
+    -0.1%
+   </td>
+   <td style="text-align: right;">
+    -0.1%
    </td>
   </tr>
   <tr height="17">
@@ -113,13 +128,16 @@
     192,795.99
    </td>
    <td style="text-align: right;">
-    180,876.35
+    197,934.13
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    5.4%
+   <td style="text-align: right;">
+    187,624.70
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    7.0%
+   <td style="text-align: right;">
+    3.9%
+   </td>
+   <td style="text-align: right;">
+    10.5%
    </td>
   </tr>
   <tr height="17">
@@ -136,13 +154,16 @@
     91,355.44
    </td>
    <td style="text-align: right;">
-    83,060.72
+    89,308.33
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -0.5%
+   <td style="text-align: right;">
+    90,117.98
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    10.9%
+   <td style="text-align: right;">
+    1.2%
+   </td>
+   <td style="text-align: right;">
+    9.2%
    </td>
   </tr>
   <tr height="17">
@@ -159,13 +180,16 @@
     84,904.42
    </td>
    <td style="text-align: right;">
-    82,953.30
+    82,708.53
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -0.3%
+   <td style="text-align: right;">
+    81,736.37
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -1.6%
+   <td style="text-align: right;">
+    -6.5%
+   </td>
+   <td style="text-align: right;">
+    -7.2%
    </td>
   </tr>
   <tr height="17">
@@ -182,13 +206,16 @@
     103,899.01
    </td>
    <td style="text-align: right;">
-    97,916.41
+    105,685.77
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -2.3%
+   <td style="text-align: right;">
+    104,340.47
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -0.7%
+   <td style="text-align: right;">
+    1.0%
+   </td>
+   <td style="text-align: right;">
+    4.0%
    </td>
   </tr>
   <tr height="17">
@@ -207,11 +234,14 @@
    <td style="text-align: right;">
     18,541.00
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -8.7%
+   <td style="text-align: right;">
+    21,257.00
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -8.7%
+   <td style="text-align: right;">
+    -30.6%
+   </td>
+   <td style="text-align: right;">
+    -30.6%
    </td>
   </tr>
   <tr height="17">
@@ -230,11 +260,14 @@
    <td style="text-align: right;">
     467,015.90
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -16.0%
+   <td style="text-align: right;">
+    478,665.59
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -4.0%
+   <td style="text-align: right;">
+    -13.1%
+   </td>
+   <td style="text-align: right;">
+    -0.6%
    </td>
   </tr>
   <tr height="17">
@@ -253,11 +286,14 @@
    <td style="text-align: right;">
     2,669.24
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    4.3%
+   <td style="text-align: right;">
+    2,654.03
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    4.7%
+   <td style="text-align: right;">
+    6.0%
+   </td>
+   <td style="text-align: right;">
+    3.4%
    </td>
   </tr>
   <tr height="17">
@@ -274,13 +310,16 @@
     8,770.01
    </td>
    <td style="text-align: right;">
-    8,181.58
+    8,462.67
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -39.9%
+   <td style="text-align: right;">
+    8,163.28
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -36.1%
+   <td style="text-align: right;">
+    -30.6%
+   </td>
+   <td style="text-align: right;">
+    -24.3%
    </td>
   </tr>
   <tr height="17">
@@ -299,11 +338,14 @@
    <td style="text-align: right;">
     11,486.58
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -3.7%
+   <td style="text-align: right;">
+    11,738.68
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -1.7%
+   <td style="text-align: right;">
+    -1.6%
+   </td>
+   <td style="text-align: right;">
+    0.8%
    </td>
   </tr>
   <tr height="17">
@@ -322,11 +364,14 @@
    <td style="text-align: right;">
     27,240,924.52
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    12.0%
+   <td style="text-align: right;">
+    29,935,871.50
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    12.0%
+   <td style="text-align: right;">
+    15.3%
+   </td>
+   <td style="text-align: right;">
+    15.3%
    </td>
   </tr>
   <tr height="17">
@@ -345,11 +390,14 @@
    <td style="text-align: right;">
     31,492,154.72
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    16.5%
+   <td style="text-align: right;">
+    31,713,730.81
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    16.5%
+   <td style="text-align: right;">
+    14.7%
+   </td>
+   <td style="text-align: right;">
+    14.7%
    </td>
   </tr>
   <tr height="17">
@@ -368,11 +416,14 @@
    <td style="text-align: right;">
     3,612,017.51
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    16.2%
+   <td style="text-align: right;">
+    3,823,665.72
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    16.5%
+   <td style="text-align: right;">
+    18.4%
+   </td>
+   <td style="text-align: right;">
+    19.4%
    </td>
   </tr>
   <tr height="17">
@@ -389,12 +440,15 @@
     63,855,900.87
    </td>
    <td style="text-align: right;">
-    63,990,894.95
+    64,026,219.29
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    13.5%
+   <td style="text-align: right;">
+    67,145,355.62
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    14.3%
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -414,10 +468,13 @@
    <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.2652%; text-align: right;">
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -437,10 +494,13 @@
    <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.2652%; text-align: right;">
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -460,11 +520,14 @@
    <td style="text-align: right;">
     663.68
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    76.8%
+   <td style="text-align: right;">
+    653.40
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    78.2%
+   <td style="text-align: right;">
+    78.5%
+   </td>
+   <td style="text-align: right;">
+    77.6%
    </td>
   </tr>
   <tr height="17">
@@ -481,13 +544,16 @@
     1,690,549.08
    </td>
    <td style="text-align: right;">
-    1,778,958.61
+    1,790,485.77
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    3.4%
+   <td style="text-align: right;">
+    1,759,415.77
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    7.6%
+   <td style="text-align: right;">
+    -0.8%
+   </td>
+   <td style="text-align: right;">
+    6.7%
    </td>
   </tr>
   <tr height="17">
@@ -501,16 +567,19 @@
     1,692.39
    </td>
    <td style="text-align: right;">
-    1,691.53
+    1,636.92
    </td>
    <td style="text-align: right;">
-    1,703.08
+    1,688.21
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    7.4%
+   <td style="text-align: right;">
+    1,698.43
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    7.8%
+   <td style="text-align: right;">
+    7.1%
+   </td>
+   <td style="text-align: right;">
+    7.5%
    </td>
   </tr>
   <tr height="17">
@@ -529,11 +598,14 @@
    <td style="text-align: right;">
     419,253.05
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    5.4%
+   <td style="text-align: right;">
+    423,238.70
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -4.7%
+   <td style="text-align: right;">
+    2.0%
+   </td>
+   <td style="text-align: right;">
+    -7.7%
    </td>
   </tr>
   <tr height="17">
@@ -547,16 +619,19 @@
     19,690.72
    </td>
    <td style="text-align: right;">
-    19,530.71
+    19,752.25
    </td>
    <td style="text-align: right;">
-    19,997.12
+    20,306.42
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    21.5%
+   <td style="text-align: right;">
+    20,312.67
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    19.4%
+   <td style="text-align: right;">
+    28.2%
+   </td>
+   <td style="text-align: right;">
+    27.2%
    </td>
   </tr>
   <tr height="17">
@@ -575,11 +650,14 @@
    <td style="text-align: right;">
     27,058.88
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -26.4%
+   <td style="text-align: right;">
+    28,009.63
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -18.0%
+   <td style="text-align: right;">
+    -5.3%
+   </td>
+   <td style="text-align: right;">
+    -0.6%
    </td>
   </tr>
   <tr height="17">
@@ -596,13 +674,16 @@
     213,338.00
    </td>
    <td style="text-align: right;">
-    214,233.80
+    197,135.75
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    10.2%
+   <td style="text-align: right;">
+    208,675.57
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    10.4%
+   <td style="text-align: right;">
+    3.3%
+   </td>
+   <td style="text-align: right;">
+    3.9%
    </td>
   </tr>
   <tr height="17">
@@ -621,11 +702,14 @@
    <td style="text-align: right;">
     5,008,913.57
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    22.1%
+   <td style="text-align: right;">
+    5,220,351.30
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    21.1%
+   <td style="text-align: right;">
+    24.1%
+   </td>
+   <td style="text-align: right;">
+    24.4%
    </td>
   </tr>
   <tr height="17">
@@ -644,11 +728,14 @@
    <td style="text-align: right;">
     6,673,367.90
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    6.3%
+   <td style="text-align: right;">
+    6,921,143.58
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -3.7%
+   <td style="text-align: right;">
+    9.6%
+   </td>
+   <td style="text-align: right;">
+    0.3%
    </td>
   </tr>
   <tr height="17">
@@ -667,11 +754,14 @@
    <td style="text-align: right;">
     60,497.00
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -12.3%
+   <td style="text-align: right;">
+    60,756.18
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    2.1%
+   <td style="text-align: right;">
+    -12.1%
+   </td>
+   <td style="text-align: right;">
+    0.5%
    </td>
   </tr>
   <tr height="17">
@@ -688,13 +778,16 @@
     1,605,759.61
    </td>
    <td style="text-align: right;">
-    1,567,708.37
+    1,718,224.06
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -16.5%
+   <td style="text-align: right;">
+    1,863,635.69
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -11.4%
+   <td style="text-align: right;">
+    1.1%
+   </td>
+   <td style="text-align: right;">
+    1.2%
    </td>
   </tr>
   <tr height="17">
@@ -713,11 +806,14 @@
    <td style="text-align: right;">
     42,377.74
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    6.4%
+   <td style="text-align: right;">
+    43,829.20
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    6.8%
+   <td style="text-align: right;">
+    11.9%
+   </td>
+   <td style="text-align: right;">
+    11.2%
    </td>
   </tr>
   <tr height="17">
@@ -736,11 +832,14 @@
    <td style="text-align: right;">
     4,978,098.80
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    3.1%
+   <td style="text-align: right;">
+    5,164,877.65
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    4.5%
+   <td style="text-align: right;">
+    5.4%
+   </td>
+   <td style="text-align: right;">
+    8.1%
    </td>
   </tr>
   <tr height="17">
@@ -759,11 +858,14 @@
    <td style="text-align: right;">
     93,903.53
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    4.7%
+   <td style="text-align: right;">
+    98,756.60
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    3.9%
+   <td style="text-align: right;">
+    5.9%
+   </td>
+   <td style="text-align: right;">
+    9.2%
    </td>
   </tr>
   <tr height="17">
@@ -782,11 +884,14 @@
    <td style="text-align: right;">
     48,130.90
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    37.3%
+   <td style="text-align: right;">
+    51,407.62
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    38.7%
+   <td style="text-align: right;">
+    40.7%
+   </td>
+   <td style="text-align: right;">
+    42.6%
    </td>
   </tr>
   <tr height="17">
@@ -803,13 +908,16 @@
     249,743.51
    </td>
    <td style="text-align: right;">
-    253,507.01
+    259,430.57
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    8.3%
+   <td style="text-align: right;">
+    255,544.73
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    8.2%
+   <td style="text-align: right;">
+    11.6%
+   </td>
+   <td style="text-align: right;">
+    8.6%
    </td>
   </tr>
   <tr height="17">
@@ -826,13 +934,16 @@
     7,221,294.49
    </td>
    <td style="text-align: right;">
-    7,392,539.09
+    7,089,800.83
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    10.8%
+   <td style="text-align: right;">
+    7,315,679.69
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    10.8%
+   <td style="text-align: right;">
+    10.3%
+   </td>
+   <td style="text-align: right;">
+    9.7%
    </td>
   </tr>
   <tr height="17">
@@ -851,11 +962,14 @@
    <td style="text-align: right;">
     4,482,240.58
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    9.1%
+   <td style="text-align: right;">
+    4,649,874.19
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    9.6%
+   <td style="text-align: right;">
+    15.5%
+   </td>
+   <td style="text-align: right;">
+    14.8%
    </td>
   </tr>
   <tr height="17">
@@ -872,13 +986,16 @@
     663,064.84
    </td>
    <td style="text-align: right;">
-    674,445.90
+    666,761.79
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    18.4%
+   <td style="text-align: right;">
+    682,289.79
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    16.2%
+   <td style="text-align: right;">
+    15.4%
+   </td>
+   <td style="text-align: right;">
+    10.3%
    </td>
   </tr>
   <tr height="17">
@@ -897,11 +1014,14 @@
    <td style="text-align: right;">
     176,123.07
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -4.5%
+   <td style="text-align: right;">
+    195,644.84
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -6.1%
+   <td style="text-align: right;">
+    1.6%
+   </td>
+   <td style="text-align: right;">
+    -6.4%
    </td>
   </tr>
   <tr height="17">
@@ -920,11 +1040,40 @@
    <td style="text-align: right;">
     2,030,343.33
    </td>
-   <td style="width: 16.2652%; text-align: right;">
+   <td style="text-align: right;">
+    2,296,563.23
+   </td>
+   <td style="text-align: right;">
+    10.6%
+   </td>
+   <td style="text-align: right;">
     2.0%
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    0.3%
+  </tr>
+  <tr height="17">
+   <td height="17">
+    Tashkent Stock Exchange
+   </td>
+   <td style="text-align: right;">
+    18,291.18
+   </td>
+   <td style="text-align: right;">
+    18,719.35
+   </td>
+   <td style="text-align: right;">
+    18,734.25
+   </td>
+   <td style="text-align: right;">
+    18,775.14
+   </td>
+   <td style="text-align: right;">
+    19,378.11
+   </td>
+   <td style="text-align: right;">
+    -0.9%
+   </td>
+   <td style="text-align: right;">
+    0.9%
    </td>
   </tr>
   <tr height="17">
@@ -943,11 +1092,14 @@
    <td style="text-align: right;">
     450,559.10
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -3.1%
+   <td style="text-align: right;">
+    440,069.16
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -13.0%
+   <td style="text-align: right;">
+    -5.0%
+   </td>
+   <td style="text-align: right;">
+    -15.1%
    </td>
   </tr>
   <tr height="17">
@@ -955,21 +1107,24 @@
     Total for APAC
    </td>
    <td style="text-align: right;">
-    35,602,378.56
+    35,620,669.74
    </td>
    <td style="text-align: right;">
-    35,766,058.72
+    35,784,778.07
    </td>
    <td style="text-align: right;">
-    35,924,437.31
+    35,943,338.49
    </td>
    <td style="text-align: right;">
-    36,394,624.11
+    36,254,139.67
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    7.3%
+   <td style="text-align: right;">
+    37,721,805.73
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    10.4%
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -989,10 +1144,13 @@
    <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.2652%; text-align: right;">
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -1012,10 +1170,13 @@
    <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.2652%; text-align: right;">
+   <td style="text-align: right;">
     <br/>
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
@@ -1035,11 +1196,14 @@
    <td style="text-align: right;">
     798,237.86
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    5.7%
+   <td style="text-align: right;">
+    822,175.43
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    5.8%
+   <td style="text-align: right;">
+    12.1%
+   </td>
+   <td style="text-align: right;">
+    12.1%
    </td>
   </tr>
   <tr height="17">
@@ -1058,11 +1222,14 @@
    <td style="text-align: right;">
     25,223.98
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    7.6%
+   <td style="text-align: right;">
+    27,507.87
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    7.7%
+   <td style="text-align: right;">
+    17.5%
+   </td>
+   <td style="text-align: right;">
+    17.7%
    </td>
   </tr>
   <tr height="17">
@@ -1081,11 +1248,14 @@
    <td style="text-align: right;">
     105,920.99
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    18.2%
+   <td style="text-align: right;">
+    94,178.62
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    11.1%
+   <td style="text-align: right;">
+    5.4%
+   </td>
+   <td style="text-align: right;">
+    16.9%
    </td>
   </tr>
   <tr height="17">
@@ -1104,34 +1274,14 @@
    <td style="text-align: right;">
     19,647.27
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -7.6%
-   </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -7.6%
-   </td>
-  </tr>
-  <tr height="17">
-   <td height="17">
-    Belarusian Currency and Stock Exchange
+   <td style="text-align: right;">
+    19,736.76
    </td>
    <td style="text-align: right;">
-    6,760.02
+    -7.7%
    </td>
    <td style="text-align: right;">
-    7,778.85
-   </td>
-   <td style="text-align: right;">
-    6,857.34
-   </td>
-   <td style="text-align: right;">
-    6,934.15
-   </td>
-   <td style="width: 16.2652%; text-align: right;">
-    10.4%
-   </td>
-   <td style="width: 16.1729%; text-align: right;">
-    10.4%
+    -7.7%
    </td>
   </tr>
   <tr height="17">
@@ -1148,13 +1298,16 @@
     807,232.76
    </td>
    <td style="text-align: right;">
-    790,324.03
+    1,003,976.14
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    0.6%
+   <td style="text-align: right;">
+    871,075.63
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    18.6%
+   <td style="text-align: right;">
+    4.1%
+   </td>
+   <td style="text-align: right;">
+    15.3%
    </td>
   </tr>
   <tr height="17">
@@ -1173,11 +1326,14 @@
    <td style="text-align: right;">
     338,454.70
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -19.9%
+   <td style="text-align: right;">
+    329,049.36
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -4.9%
+   <td style="text-align: right;">
+    -23.3%
+   </td>
+   <td style="text-align: right;">
+    -6.7%
    </td>
   </tr>
   <tr height="17">
@@ -1196,11 +1352,14 @@
    <td style="text-align: right;">
     154,951.11
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    15.1%
+   <td style="text-align: right;">
+    157,846.91
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    14.7%
+   <td style="text-align: right;">
+    16.4%
+   </td>
+   <td style="text-align: right;">
+    16.8%
    </td>
   </tr>
   <tr height="17">
@@ -1219,11 +1378,14 @@
    <td style="text-align: right;">
     97,860.13
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    43.1%
+   <td style="text-align: right;">
+    102,220.98
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    31.0%
+   <td style="text-align: right;">
+    47.1%
+   </td>
+   <td style="text-align: right;">
+    36.4%
    </td>
   </tr>
   <tr height="17">
@@ -1240,13 +1402,16 @@
     51,040.53
    </td>
    <td style="text-align: right;">
-    48,359.56
+    52,276.15
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -3.8%
+   <td style="text-align: right;">
+    48,751.67
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -2.4%
+   <td style="text-align: right;">
+    -6.2%
+   </td>
+   <td style="text-align: right;">
+    -4.9%
    </td>
   </tr>
   <tr height="17">
@@ -1265,11 +1430,14 @@
    <td style="text-align: right;">
     50,711.19
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    26.4%
+   <td style="text-align: right;">
+    51,375.41
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    23.1%
+   <td style="text-align: right;">
+    29.8%
+   </td>
+   <td style="text-align: right;">
+    28.7%
    </td>
   </tr>
   <tr height="17">
@@ -1288,11 +1456,14 @@
    <td style="text-align: right;">
     8,996.42
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    11.3%
+   <td style="text-align: right;">
+    9,639.23
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    4.8%
+   <td style="text-align: right;">
+    12.8%
+   </td>
+   <td style="text-align: right;">
+    7.9%
    </td>
   </tr>
   <tr height="17">
@@ -1311,11 +1482,14 @@
    <td style="text-align: right;">
     14,130.42
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    49.3%
+   <td style="text-align: right;">
+    11,217.53
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    40.4%
+   <td style="text-align: right;">
+    7.9%
+   </td>
+   <td style="text-align: right;">
+    32.9%
    </td>
   </tr>
   <tr height="17">
@@ -1329,16 +1503,19 @@
     7,335.81
    </td>
    <td style="text-align: right;">
-    7,366.68
+    7,212.68
    </td>
    <td style="text-align: right;">
-    7,470.70
+    7,164.34
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    17.1%
+   <td style="text-align: right;">
+    7,461.65
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    15.9%
+   <td style="text-align: right;">
+    13.1%
+   </td>
+   <td style="text-align: right;">
+    12.7%
    </td>
   </tr>
   <tr height="17">
@@ -1357,11 +1534,14 @@
    <td style="text-align: right;">
     2,669,723.61
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    21.6%
+   <td style="text-align: right;">
+    2,157,757.95
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    14.3%
+   <td style="text-align: right;">
+    -4.1%
+   </td>
+   <td style="text-align: right;">
+    18.1%
    </td>
   </tr>
   <tr height="17">
@@ -1380,11 +1560,14 @@
    <td style="text-align: right;">
     244,235.64
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    26.2%
+   <td style="text-align: right;">
+    250,885.22
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    26.3%
+   <td style="text-align: right;">
+    37.3%
+   </td>
+   <td style="text-align: right;">
+    37.3%
    </td>
   </tr>
   <tr height="17">
@@ -1403,11 +1586,14 @@
    <td style="text-align: right;">
     6,992,033.26
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -0.1%
+   <td style="text-align: right;">
+    6,021,904.56
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -6.1%
+   <td style="text-align: right;">
+    -16.5%
+   </td>
+   <td style="text-align: right;">
+    -6.9%
    </td>
   </tr>
   <tr height="17">
@@ -1426,11 +1612,14 @@
    <td style="text-align: right;">
     9,234.88
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    56.6%
+   <td style="text-align: right;">
+    13,321.51
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    69.3%
+   <td style="text-align: right;">
+    134.7%
+   </td>
+   <td style="text-align: right;">
+    62.5%
    </td>
   </tr>
   <tr height="17">
@@ -1447,13 +1636,16 @@
     1,047,862.05
    </td>
    <td style="text-align: right;">
-    1,048,967.55
+    1,056,984.50
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    8.1%
+   <td style="text-align: right;">
+    1,045,259.35
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    5.2%
+   <td style="text-align: right;">
+    4.3%
+   </td>
+   <td style="text-align: right;">
+    2.6%
    </td>
   </tr>
   <tr height="17">
@@ -1472,11 +1664,14 @@
    <td style="text-align: right;">
     16,026.81
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    44.6%
+   <td style="text-align: right;">
+    13,372.85
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    35.9%
+   <td style="text-align: right;">
+    13.3%
+   </td>
+   <td style="text-align: right;">
+    39.5%
    </td>
   </tr>
   <tr height="17">
@@ -1493,13 +1688,16 @@
     9,167.70
    </td>
    <td style="text-align: right;">
-    9,462.22
+    9,474.37
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    152.8%
+   <td style="text-align: right;">
+    9,958.06
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    166.5%
+   <td style="text-align: right;">
+    153.1%
+   </td>
+   <td style="text-align: right;">
+    180.6%
    </td>
   </tr>
   <tr height="17">
@@ -1518,11 +1716,14 @@
    <td style="text-align: right;">
     54,839.81
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    12.9%
+   <td style="text-align: right;">
+    47,211.30
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    6.2%
+   <td style="text-align: right;">
+    -7.6%
+   </td>
+   <td style="text-align: right;">
+    2.7%
    </td>
   </tr>
   <tr height="17">
@@ -1541,11 +1742,14 @@
    <td style="text-align: right;">
     5,109.65
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    7.0%
+   <td style="text-align: right;">
+    3,922.56
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    0.6%
+   <td style="text-align: right;">
+    -18.0%
+   </td>
+   <td style="text-align: right;">
+    1.0%
    </td>
   </tr>
   <tr height="17">
@@ -1564,11 +1768,14 @@
    <td style="text-align: right;">
     777.05
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    40.6%
+   <td style="text-align: right;">
+    789.64
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    48.9%
+   <td style="text-align: right;">
+    39.6%
+   </td>
+   <td style="text-align: right;">
+    46.0%
    </td>
   </tr>
   <tr height="17">
@@ -1587,11 +1794,40 @@
    <td style="text-align: right;">
     15,310.29
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    23.7%
+   <td style="text-align: right;">
+    16,340.62
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    19.1%
+   <td style="text-align: right;">
+    20.3%
+   </td>
+   <td style="text-align: right;">
+    19.6%
+   </td>
+  </tr>
+  <tr height="17">
+   <td height="17">
+    Namibian Stock Exchange
+   </td>
+   <td style="text-align: right;">
+    2,527.67
+   </td>
+   <td style="text-align: right;">
+    2,520.57
+   </td>
+   <td style="text-align: right;">
+    2,643.13
+   </td>
+   <td style="text-align: right;">
+    2,617.86
+   </td>
+   <td style="text-align: right;">
+    2,619.05
+   </td>
+   <td style="text-align: right;">
+    8.8%
+   </td>
+   <td style="text-align: right;">
+    7.4%
    </td>
   </tr>
   <tr height="17">
@@ -1610,11 +1846,14 @@
    <td style="text-align: right;">
     2,038,479.30
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -3.7%
+   <td style="text-align: right;">
+    1,642,186.25
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -9.5%
+   <td style="text-align: right;">
+    -27.0%
+   </td>
+   <td style="text-align: right;">
+    -10.1%
    </td>
   </tr>
   <tr height="17">
@@ -1633,11 +1872,14 @@
    <td style="text-align: right;">
     56,704.80
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    12.6%
+   <td style="text-align: right;">
+    60,171.02
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    30.0%
+   <td style="text-align: right;">
+    28.0%
+   </td>
+   <td style="text-align: right;">
+    37.0%
    </td>
   </tr>
   <tr height="17">
@@ -1656,11 +1898,14 @@
    <td style="text-align: right;">
     4,055.55
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -6.0%
+   <td style="text-align: right;">
+    4,385.33
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -6.0%
+   <td style="text-align: right;">
+    1.8%
+   </td>
+   <td style="text-align: right;">
+    1.8%
    </td>
   </tr>
   <tr height="17">
@@ -1679,11 +1924,14 @@
    <td style="text-align: right;">
     44,671.15
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    38.5%
+   <td style="text-align: right;">
+    47,081.27
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    29.5%
+   <td style="text-align: right;">
+    36.1%
+   </td>
+   <td style="text-align: right;">
+    31.6%
    </td>
   </tr>
   <tr height="17">
@@ -1700,13 +1948,16 @@
     164,756.99
    </td>
    <td style="text-align: right;">
-    174,249.16
+    169,445.76
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    12.3%
+   <td style="text-align: right;">
+    170,056.50
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    12.3%
+   <td style="text-align: right;">
+    14.4%
+   </td>
+   <td style="text-align: right;">
+    14.4%
    </td>
   </tr>
   <tr height="17">
@@ -1725,11 +1976,14 @@
    <td style="text-align: right;">
     2,702.74
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -6.3%
+   <td style="text-align: right;">
+    2,718.48
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    3.1%
+   <td style="text-align: right;">
+    -5.2%
+   </td>
+   <td style="text-align: right;">
+    4.1%
    </td>
   </tr>
   <tr height="17">
@@ -1748,11 +2002,14 @@
    <td style="text-align: right;">
     2,544,976.03
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -11.7%
+   <td style="text-align: right;">
+    2,462,238.28
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    -11.7%
+   <td style="text-align: right;">
+    -10.0%
+   </td>
+   <td style="text-align: right;">
+    -10.0%
    </td>
   </tr>
   <tr height="17">
@@ -1771,11 +2028,14 @@
    <td style="text-align: right;">
     2,232,795.11
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    17.0%
+   <td style="text-align: right;">
+    2,285,338.72
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    4.9%
+   <td style="text-align: right;">
+    11.4%
+   </td>
+   <td style="text-align: right;">
+    1.6%
    </td>
   </tr>
   <tr height="17">
@@ -1794,11 +2054,14 @@
    <td style="text-align: right;">
     9,255.61
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    10.3%
+   <td style="text-align: right;">
+    9,290.76
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    7.7%
+   <td style="text-align: right;">
+    11.4%
+   </td>
+   <td style="text-align: right;">
+    11.0%
    </td>
   </tr>
   <tr height="17">
@@ -1817,11 +2080,14 @@
    <td style="text-align: right;">
     177,290.56
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -90.0%
+   <td style="text-align: right;">
+    158,656.31
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    30.0%
+   <td style="text-align: right;">
+    -90.2%
+   </td>
+   <td style="text-align: right;">
+    40.3%
    </td>
   </tr>
   <tr height="17">
@@ -1838,13 +2104,16 @@
     326,998.12
    </td>
    <td style="text-align: right;">
-    357,163.96
+    361,206.85
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    33.3%
+   <td style="text-align: right;">
+    371,000.90
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    29.9%
+   <td style="text-align: right;">
+    38.2%
+   </td>
+   <td style="text-align: right;">
+    34.9%
    </td>
   </tr>
   <tr height="17">
@@ -1863,11 +2132,14 @@
    <td style="text-align: right;">
     44,887.76
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    28.4%
+   <td style="text-align: right;">
+    46,069.23
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    36.6%
+   <td style="text-align: right;">
+    20.2%
+   </td>
+   <td style="text-align: right;">
+    26.6%
    </td>
   </tr>
   <tr height="17">
@@ -1884,13 +2156,16 @@
     9,393.50
    </td>
    <td style="text-align: right;">
-    8,995.10
+    10,129.04
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    12.0%
+   <td style="text-align: right;">
+    9,965.77
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    12.2%
+   <td style="text-align: right;">
+    21.4%
+   </td>
+   <td style="text-align: right;">
+    16.4%
    </td>
   </tr>
   <tr height="17">
@@ -1909,11 +2184,14 @@
    <td style="text-align: right;">
     162,360.40
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    18.4%
+   <td style="text-align: right;">
+    135,729.33
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    11.3%
+   <td style="text-align: right;">
+    -5.6%
+   </td>
+   <td style="text-align: right;">
+    4.6%
    </td>
   </tr>
   <tr height="17">
@@ -1930,13 +2208,16 @@
     251,803.77
    </td>
    <td style="text-align: right;">
-    224,137.61
+    266,152.90
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    4.0%
+   <td style="text-align: right;">
+    272,026.29
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    2.3%
+   <td style="text-align: right;">
+    21.6%
+   </td>
+   <td style="text-align: right;">
+    15.8%
    </td>
   </tr>
   <tr height="17">
@@ -1955,11 +2236,14 @@
    <td style="text-align: right;">
     33,018.40
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    25.8%
+   <td style="text-align: right;">
+    26,204.26
    </td>
-   <td style="width: 16.1729%; text-align: right;">
-    18.2%
+   <td style="text-align: right;">
+    -3.8%
+   </td>
+   <td style="text-align: right;">
+    18.4%
    </td>
   </tr>
   <tr height="18">
@@ -1967,27 +2251,33 @@
     Total for EMEA
    </td>
    <td style="text-align: right;">
-    20,224,882.56
+    20,220,650.21
    </td>
    <td style="text-align: right;">
-    20,532,004.19
+    20,526,745.91
    </td>
    <td style="text-align: right;">
-    19,589,488.82
+    19,585,120.61
    </td>
    <td style="text-align: right;">
-    21,648,686.52
+    21,912,050.39
    </td>
-   <td style="width: 16.2652%; text-align: right;">
-    -3.7%
+   <td style="text-align: right;">
+    19,838,698.42
    </td>
-   <td style="width: 16.1729%; text-align: right;">
+   <td style="text-align: right;">
+    -13.0%
+   </td>
+   <td style="text-align: right;">
     <br/>
    </td>
   </tr>
   <tr height="20">
    <td colspan="7" height="20">
     Note: Where no more than two consecutive values from an exchange were missing, WFE office interpolated them.
+   </td>
+   <td>
+    <br/>
    </td>
   </tr>
  </tbody>
