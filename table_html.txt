@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" class="uk-table uk-table-divider uk-table-striped uk-table-small" width="1250">
+<table border="0" cellpadding="0" cellspacing="0" class="uk-table uk-table-divider uk-table-striped uk-table-small" width="1403">
  <thead>
   <tr>
    <th>
@@ -7,7 +7,6 @@
    </th>
    <th style="text-align: right;">
     Jan'25
-    <br/>
    </th>
    <th style="text-align: right;">
     Feb'25
@@ -15,7 +14,6 @@
    </th>
    <th style="text-align: right;">
     Mar'25
-    <br/>
    </th>
    <th style="text-align: right;">
     Apr'25
@@ -23,7 +21,6 @@
    </th>
    <th style="text-align: right;">
     May'25
-    <br/>
    </th>
    <th style="text-align: right;">
     Jun'25
@@ -34,17 +31,21 @@
     <br/>
    </th>
    <th style="text-align: right;">
-    %change Jul'25/ Jul'24 USD
+    Aug'25
+    <br/>
    </th>
    <th style="text-align: right;">
-    %change Jul'25/ Jul'24 LOC
+    %change Aug'25/ Aug'24 USD
     <br/>
+   </th>
+   <th style="text-align: right;">
+    %change Aug'25/ Aug'24 LOC
    </th>
   </tr>
  </thead>
  <tbody>
-  <tr height="18">
-   <td height="18">
+  <tr height="19">
+   <td height="19">
     Americas
    </td>
    <td style="text-align: right;">
@@ -74,9 +75,12 @@
    <td style="text-align: right;">
     <br/>
    </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     B3 - Brasil Bolsa Balcão
    </td>
    <td style="text-align: right;">
@@ -98,17 +102,20 @@
     789,237.26
    </td>
    <td style="text-align: right;">
-    745,324.29
+    739,530.30
    </td>
    <td style="text-align: right;">
-    -5.4%
+    741,340.48
    </td>
    <td style="text-align: right;">
-    -2.6%
+    -11.9%
+   </td>
+   <td style="text-align: right;">
+    -9.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bermuda Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -133,14 +140,17 @@
     2,052.15
    </td>
    <td style="text-align: right;">
-    -2.8%
+    2,081.57
    </td>
    <td style="text-align: right;">
-    -2.8%
+    1.7%
+   </td>
+   <td style="text-align: right;">
+    1.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa de Comercio de Santiago
    </td>
    <td style="text-align: right;">
@@ -162,17 +172,20 @@
     204,508.24
    </td>
    <td style="text-align: right;">
-    202,775.33
+    204,241.61
    </td>
    <td style="text-align: right;">
-    18.7%
+    216,185.02
    </td>
    <td style="text-align: right;">
-    21.5%
+    22.7%
+   </td>
+   <td style="text-align: right;">
+    27.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa de Valores de Colombia
    </td>
    <td style="text-align: right;">
@@ -194,17 +207,20 @@
     92,694.52
    </td>
    <td style="text-align: right;">
-    93,981.23
+    90,273.62
    </td>
    <td style="text-align: right;">
-    17.6%
+    96,096.25
    </td>
    <td style="text-align: right;">
-    21.5%
+    22.7%
+   </td>
+   <td style="text-align: right;">
+    22.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa de Valores de Lima
    </td>
    <td style="text-align: right;">
@@ -226,17 +242,20 @@
     87,710.50
    </td>
    <td style="text-align: right;">
-    83,126.34
+    87,400.73
    </td>
    <td style="text-align: right;">
-    -6.3%
+    84,707.90
    </td>
    <td style="text-align: right;">
-    -9.1%
+    -2.0%
+   </td>
+   <td style="text-align: right;">
+    -6.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa Electronica de Chile
    </td>
    <td style="text-align: right;">
@@ -261,14 +280,17 @@
     104,524.12
    </td>
    <td style="text-align: right;">
-    -2.1%
+    115,118.52
    </td>
    <td style="text-align: right;">
-    -1.7%
+    9.8%
+   </td>
+   <td style="text-align: right;">
+    14.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa Latinoamericana de Valores (Latinex)
    </td>
    <td style="text-align: right;">
@@ -293,14 +315,17 @@
     25,670.00
    </td>
    <td style="text-align: right;">
-    23.6%
+    22,099.00
    </td>
    <td style="text-align: right;">
-    23.6%
+    21.4%
+   </td>
+   <td style="text-align: right;">
+    21.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa Mexicana de Valores
    </td>
    <td style="text-align: right;">
@@ -325,14 +350,17 @@
     468,809.15
    </td>
    <td style="text-align: right;">
-    -4.1%
+    477,995.60
    </td>
    <td style="text-align: right;">
-    0.1%
+    3.8%
+   </td>
+   <td style="text-align: right;">
+    2.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bolsa Nacional de Valores de Costa Rica
    </td>
    <td style="text-align: right;">
@@ -357,14 +385,17 @@
     2,864.66
    </td>
    <td style="text-align: right;">
-    13.1%
+    2,903.35
    </td>
    <td style="text-align: right;">
-    9.4%
+    12.9%
+   </td>
+   <td style="text-align: right;">
+    10.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Canadian Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -386,17 +417,20 @@
     10,105.01
    </td>
    <td style="text-align: right;">
-    8,885.15
+    11,347.29
    </td>
    <td style="text-align: right;">
-    -17.9%
+    9,547.10
    </td>
    <td style="text-align: right;">
-    -15.7%
+    -13.7%
+   </td>
+   <td style="text-align: right;">
+    -10.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Jamaica Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -421,14 +455,17 @@
     11,285.70
    </td>
    <td style="text-align: right;">
-    -1.8%
+    11,673.69
    </td>
    <td style="text-align: right;">
-    -0.2%
+    1.9%
+   </td>
+   <td style="text-align: right;">
+    3.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Nasdaq - US
    </td>
    <td style="text-align: right;">
@@ -450,17 +487,20 @@
     31,963,559.75
    </td>
    <td style="text-align: right;">
-    30,369,445.46
+    33,146,514.33
    </td>
    <td style="text-align: right;">
-    10.9%
+    33,624,847.28
    </td>
    <td style="text-align: right;">
-    10.9%
+    22.1%
+   </td>
+   <td style="text-align: right;">
+    22.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     NYSE
    </td>
    <td style="text-align: right;">
@@ -485,14 +525,17 @@
     30,920,740.32
    </td>
    <td style="text-align: right;">
-    7.4%
+    30,982,347.53
    </td>
    <td style="text-align: right;">
-    7.4%
+    10.5%
+   </td>
+   <td style="text-align: right;">
+    10.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     TMX Group
    </td>
    <td style="text-align: right;">
@@ -517,14 +560,17 @@
     4,001,175.55
    </td>
    <td style="text-align: right;">
-    21.3%
+    3,904,029.98
    </td>
    <td style="text-align: right;">
-    20.7%
+    14.6%
+   </td>
+   <td style="text-align: right;">
+    19.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Total for Americas
    </td>
    <td style="text-align: right;">
@@ -546,42 +592,13 @@
     68,530,844.41
    </td>
    <td style="text-align: right;">
-    67,040,659.45
+    69,816,429.53
    </td>
    <td style="text-align: right;">
-    9.4%
+    70,290,973.27
    </td>
    <td style="text-align: right;">
-    <br/>
-   </td>
-  </tr>
-  <tr height="17">
-   <td height="17">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
+    15.7%
    </td>
    <td style="text-align: right;">
     <br/>
@@ -589,6 +606,41 @@
   </tr>
   <tr height="18">
    <td height="18">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+  </tr>
+  <tr height="19">
+   <td height="19">
     APAC
    </td>
    <td style="text-align: right;">
@@ -618,9 +670,12 @@
    <td style="text-align: right;">
     <br/>
    </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Armenia Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -645,14 +700,52 @@
     667.37
    </td>
    <td style="text-align: right;">
-    84.1%
+    767.39
    </td>
    <td style="text-align: right;">
-    82.5%
+    109.5%
+   </td>
+   <td style="text-align: right;">
+    79.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
+    Astana International Exchange
+   </td>
+   <td style="text-align: right;">
+    75,516.83
+   </td>
+   <td style="text-align: right;">
+    79,194.35
+   </td>
+   <td style="text-align: right;">
+    79,134.67
+   </td>
+   <td style="text-align: right;">
+    77,510.25
+   </td>
+   <td style="text-align: right;">
+    79,244.06
+   </td>
+   <td style="text-align: right;">
+    82,093.64
+   </td>
+   <td style="text-align: right;">
+    86,910.03
+   </td>
+   <td style="text-align: right;">
+    82,001.44
+   </td>
+   <td style="text-align: right;">
+    0.8%
+   </td>
+   <td style="text-align: right;">
+    0.8%
+   </td>
+  </tr>
+  <tr height="18">
+   <td height="18">
     ASX Australian Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -674,17 +767,20 @@
     1,892,853.20
    </td>
    <td style="text-align: right;">
-    1,795,347.29
+    1,942,470.21
    </td>
    <td style="text-align: right;">
-    -0.7%
+    1,833,016.67
    </td>
    <td style="text-align: right;">
-    4.3%
+    -1.4%
+   </td>
+   <td style="text-align: right;">
+    6.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Baku Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -706,17 +802,20 @@
     1,612.12
    </td>
    <td style="text-align: right;">
-    1,688.14
+    1,681.43
    </td>
    <td style="text-align: right;">
-    6.7%
+    1,686.31
    </td>
    <td style="text-align: right;">
-    6.7%
+    6.5%
+   </td>
+   <td style="text-align: right;">
+    6.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     BSE India Limited
    </td>
    <td style="text-align: right;">
@@ -741,14 +840,17 @@
     5,254,906.91
    </td>
    <td style="text-align: right;">
-    -4.8%
+    5,173,284.20
    </td>
    <td style="text-align: right;">
-    -2.7%
+    -6.6%
+   </td>
+   <td style="text-align: right;">
+    -4.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bursa Malaysia
    </td>
    <td style="text-align: right;">
@@ -773,14 +875,17 @@
     430,670.07
    </td>
    <td style="text-align: right;">
-    -0.9%
+    438,858.19
    </td>
    <td style="text-align: right;">
-    -8.1%
+    -3.6%
+   </td>
+   <td style="text-align: right;">
+    -5.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Colombo Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -802,17 +907,20 @@
     21,507.86
    </td>
    <td style="text-align: right;">
-    22,095.48
+    23,037.09
    </td>
    <td style="text-align: right;">
-    48.3%
+    24,806.89
    </td>
    <td style="text-align: right;">
-    45.9%
+    71.8%
+   </td>
+   <td style="text-align: right;">
+    71.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Dhaka Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -837,14 +945,17 @@
     29,738.19
    </td>
    <td style="text-align: right;">
-    -1.8%
+    30,514.75
    </td>
    <td style="text-align: right;">
-    1.8%
+    -10.3%
+   </td>
+   <td style="text-align: right;">
+    -8.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Hochiminh Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -869,14 +980,17 @@
     249,209.03
    </td>
    <td style="text-align: right;">
-    22.9%
+    228,355.74
    </td>
    <td style="text-align: right;">
-    26.6%
+    7.7%
+   </td>
+   <td style="text-align: right;">
+    38.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Hong Kong Exchanges and Clearing
    </td>
    <td style="text-align: right;">
@@ -901,14 +1015,17 @@
     5,724,171.93
    </td>
    <td style="text-align: right;">
-    43.6%
+    5,941,509.77
    </td>
    <td style="text-align: right;">
-    44.2%
+    45.8%
+   </td>
+   <td style="text-align: right;">
+    46.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Indonesia Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -930,17 +1047,20 @@
     747,598.67
    </td>
    <td style="text-align: right;">
-    692,332.36
+    828,252.41
    </td>
    <td style="text-align: right;">
-    -8.8%
+    870,609.68
    </td>
    <td style="text-align: right;">
-    -6.2%
+    2.6%
+   </td>
+   <td style="text-align: right;">
+    8.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Japan Exchange Group
    </td>
    <td style="text-align: right;">
@@ -962,17 +1082,20 @@
     7,031,025.36
    </td>
    <td style="text-align: right;">
-    6,704,510.08
+    7,237,298.40
    </td>
    <td style="text-align: right;">
-    0.7%
+    7,558,529.03
    </td>
    <td style="text-align: right;">
-    -1.7%
+    13.5%
+   </td>
+   <td style="text-align: right;">
+    11.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Kazakhstan Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -994,17 +1117,20 @@
     66,555.97
    </td>
    <td style="text-align: right;">
-    61,262.01
+    73,742.86
    </td>
    <td style="text-align: right;">
-    -11.6%
+    77,500.83
    </td>
    <td style="text-align: right;">
-    -2.5%
+    13.3%
+   </td>
+   <td style="text-align: right;">
+    20.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Korea Exchange
    </td>
    <td style="text-align: right;">
@@ -1029,14 +1155,17 @@
     2,219,037.87
    </td>
    <td style="text-align: right;">
-    15.1%
+    1,946,494.88
    </td>
    <td style="text-align: right;">
-    16.0%
+    2.0%
+   </td>
+   <td style="text-align: right;">
+    8.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     National Equities Exchange and Quotations
    </td>
    <td style="text-align: right;">
@@ -1061,14 +1190,17 @@
     44,643.83
    </td>
    <td style="text-align: right;">
-    15.3%
+    44,496.95
    </td>
    <td style="text-align: right;">
-    14.8%
+    13.7%
+   </td>
+   <td style="text-align: right;">
+    15.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     National Stock Exchange of India
    </td>
    <td style="text-align: right;">
@@ -1090,17 +1222,20 @@
     5,365,319.62
    </td>
    <td style="text-align: right;">
-    4,831,709.86
+    5,222,826.07
    </td>
    <td style="text-align: right;">
-    -11.8%
+    4,927,130.46
    </td>
    <td style="text-align: right;">
-    -8.9%
+    -10.4%
+   </td>
+   <td style="text-align: right;">
+    -7.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     NZX Limited
    </td>
    <td style="text-align: right;">
@@ -1125,14 +1260,17 @@
     101,522.55
    </td>
    <td style="text-align: right;">
-    7.7%
+    103,475.35
    </td>
    <td style="text-align: right;">
-    7.5%
+    4.8%
+   </td>
+   <td style="text-align: right;">
+    9.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Pakistan Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1157,14 +1295,17 @@
     59,926.77
    </td>
    <td style="text-align: right;">
-    61.1%
+    62,580.95
    </td>
    <td style="text-align: right;">
-    63.1%
+    66.4%
+   </td>
+   <td style="text-align: right;">
+    68.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Philippine Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1189,14 +1330,17 @@
     260,936.05
    </td>
    <td style="text-align: right;">
-    9.4%
+    255,046.09
    </td>
    <td style="text-align: right;">
-    4.6%
+    -1.0%
+   </td>
+   <td style="text-align: right;">
+    -0.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Shanghai Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1221,14 +1365,17 @@
     7,958,217.96
    </td>
    <td style="text-align: right;">
-    25.8%
+    7,705,376.86
    </td>
    <td style="text-align: right;">
-    25.3%
+    23.5%
+   </td>
+   <td style="text-align: right;">
+    26.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Shenzhen Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1253,14 +1400,17 @@
     5,108,524.54
    </td>
    <td style="text-align: right;">
-    36.9%
+    5,005,756.79
    </td>
    <td style="text-align: right;">
-    36.4%
+    37.4%
+   </td>
+   <td style="text-align: right;">
+    40.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Singapore Exchange
    </td>
    <td style="text-align: right;">
@@ -1285,14 +1435,17 @@
     732,888.78
    </td>
    <td style="text-align: right;">
-    20.1%
+    706,009.84
    </td>
    <td style="text-align: right;">
-    16.1%
+    13.8%
+   </td>
+   <td style="text-align: right;">
+    13.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Taipei Exchange
    </td>
    <td style="text-align: right;">
@@ -1317,14 +1470,17 @@
     199,278.75
    </td>
    <td style="text-align: right;">
-    2.3%
+    219,572.31
    </td>
    <td style="text-align: right;">
-    -6.8%
+    4.5%
+   </td>
+   <td style="text-align: right;">
+    -2.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Taiwan Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1349,14 +1505,17 @@
     2,536,140.96
    </td>
    <td style="text-align: right;">
-    17.6%
+    2,610,534.55
    </td>
    <td style="text-align: right;">
-    7.1%
+    17.4%
+   </td>
+   <td style="text-align: right;">
+    9.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Tashkent Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1381,14 +1540,17 @@
     19,492.05
    </td>
    <td style="text-align: right;">
-    5.3%
+    20,252.95
    </td>
    <td style="text-align: right;">
-    7.5%
+    8.3%
+   </td>
+   <td style="text-align: right;">
+    9.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     The Stock Exchange of Thailand
    </td>
    <td style="text-align: right;">
@@ -1413,71 +1575,45 @@
     475,839.08
    </td>
    <td style="text-align: right;">
-    1.6%
+    482,831.93
    </td>
    <td style="text-align: right;">
-    -6.4%
+    -4.7%
+   </td>
+   <td style="text-align: right;">
+    -7.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Total for APAC
    </td>
    <td style="text-align: right;">
-    41,271,845.47
+    41,347,362.30
    </td>
    <td style="text-align: right;">
-    40,829,113.17
+    40,908,307.52
    </td>
    <td style="text-align: right;">
-    41,445,597.43
+    41,524,732.10
    </td>
    <td style="text-align: right;">
-    41,957,838.25
+    42,035,348.50
    </td>
    <td style="text-align: right;">
-    43,793,662.27
+    43,872,906.33
    </td>
    <td style="text-align: right;">
-    45,423,642.12
+    45,505,735.76
    </td>
    <td style="text-align: right;">
-    45,514,757.91
+    46,822,031.19
    </td>
    <td style="text-align: right;">
-    11.5%
+    46,351,000.80
    </td>
    <td style="text-align: right;">
-    <br/>
-   </td>
-  </tr>
-  <tr height="17">
-   <td height="17">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
-   </td>
-   <td style="text-align: right;">
-    <br/>
+    12.6%
    </td>
    <td style="text-align: right;">
     <br/>
@@ -1485,6 +1621,41 @@
   </tr>
   <tr height="18">
    <td height="18">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
+  </tr>
+  <tr height="19">
+   <td height="19">
     EMEA
    </td>
    <td style="text-align: right;">
@@ -1514,9 +1685,12 @@
    <td style="text-align: right;">
     <br/>
    </td>
+   <td style="text-align: right;">
+    <br/>
+   </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Abu Dhabi Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -1541,14 +1715,17 @@
     861,311.27
    </td>
    <td style="text-align: right;">
-    11.4%
+    846,032.52
    </td>
    <td style="text-align: right;">
-    11.4%
+    10.8%
+   </td>
+   <td style="text-align: right;">
+    10.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Amman Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1573,14 +1750,17 @@
     31,454.96
    </td>
    <td style="text-align: right;">
-    34.7%
+    31,926.69
    </td>
    <td style="text-align: right;">
-    34.7%
+    34.4%
+   </td>
+   <td style="text-align: right;">
+    34.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Athens Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1605,14 +1785,17 @@
     94,874.65
    </td>
    <td style="text-align: right;">
-    22.0%
+    96,894.53
    </td>
    <td style="text-align: right;">
-    27.9%
+    31.4%
+   </td>
+   <td style="text-align: right;">
+    35.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bahrain Bourse
    </td>
    <td style="text-align: right;">
@@ -1637,14 +1820,17 @@
     20,164.80
    </td>
    <td style="text-align: right;">
-    -2.4%
+    19,892.07
    </td>
    <td style="text-align: right;">
-    -2.4%
+    -1.5%
+   </td>
+   <td style="text-align: right;">
+    -1.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Belarusian Currency and Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1666,17 +1852,20 @@
     8,107.23
    </td>
    <td style="text-align: right;">
-    8,472.81
+    8,576.68
    </td>
    <td style="text-align: right;">
-    36.3%
+    8,825.30
    </td>
    <td style="text-align: right;">
-    36.3%
+    37.1%
+   </td>
+   <td style="text-align: right;">
+    37.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     BME Spanish Exchanges
    </td>
    <td style="text-align: right;">
@@ -1695,20 +1884,23 @@
     820,269.00
    </td>
    <td style="text-align: right;">
-    915,563.20
+    808,026.64
    </td>
    <td style="text-align: right;">
-    937,054.33
+    902,112.48
    </td>
    <td style="text-align: right;">
-    34.5%
+    919,676.12
    </td>
    <td style="text-align: right;">
-    24.5%
+    30.6%
+   </td>
+   <td style="text-align: right;">
+    22.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Borsa Istanbul
    </td>
    <td style="text-align: right;">
@@ -1730,17 +1922,20 @@
     359,056.07
    </td>
    <td style="text-align: right;">
-    334,434.81
+    339,652.77
    </td>
    <td style="text-align: right;">
-    -20.1%
+    335,692.87
    </td>
    <td style="text-align: right;">
-    -3.3%
+    -13.7%
+   </td>
+   <td style="text-align: right;">
+    3.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Boursa Kuwait
    </td>
    <td style="text-align: right;">
@@ -1765,14 +1960,17 @@
     167,747.56
    </td>
    <td style="text-align: right;">
-    19.9%
+    165,438.44
    </td>
    <td style="text-align: right;">
-    20.3%
+    18.8%
+   </td>
+   <td style="text-align: right;">
+    19.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bourse de Casablanca
    </td>
    <td style="text-align: right;">
@@ -1794,17 +1992,20 @@
     103,825.32
    </td>
    <td style="text-align: right;">
-    104,956.15
+    112,159.07
    </td>
    <td style="text-align: right;">
-    43.9%
+    114,218.76
    </td>
    <td style="text-align: right;">
-    35.6%
+    54.5%
+   </td>
+   <td style="text-align: right;">
+    46.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     BRVM
    </td>
    <td style="text-align: right;">
@@ -1826,17 +2027,20 @@
     21,488.27
    </td>
    <td style="text-align: right;">
-    20,658.34
+    20,728.30
    </td>
    <td style="text-align: right;">
-    41.0%
+    21,269.54
    </td>
    <td style="text-align: right;">
-    36.1%
+    38.3%
+   </td>
+   <td style="text-align: right;">
+    35.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bucharest Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1861,14 +2065,17 @@
     58,054.75
    </td>
    <td style="text-align: right;">
-    7.5%
+    59,120.94
    </td>
    <td style="text-align: right;">
-    4.3%
+    9.8%
+   </td>
+   <td style="text-align: right;">
+    8.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Budapest Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1893,14 +2100,17 @@
     53,103.14
    </td>
    <td style="text-align: right;">
-    28.7%
+    53,901.79
    </td>
    <td style="text-align: right;">
-    25.8%
+    29.5%
+   </td>
+   <td style="text-align: right;">
+    29.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Bulgarian Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1925,14 +2135,17 @@
     10,022.78
    </td>
    <td style="text-align: right;">
+    10,186.00
+   </td>
+   <td style="text-align: right;">
     16.1%
    </td>
    <td style="text-align: right;">
-    10.8%
+    13.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Cyprus Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1957,14 +2170,17 @@
     9,811.89
    </td>
    <td style="text-align: right;">
-    9.8%
+    12,198.68
    </td>
    <td style="text-align: right;">
-    15.0%
+    33.4%
+   </td>
+   <td style="text-align: right;">
+    37.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Dar Es Salaam Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -1986,17 +2202,20 @@
     7,397.16
    </td>
    <td style="text-align: right;">
-    7,615.39
+    7,593.83
    </td>
    <td style="text-align: right;">
-    19.6%
+    7,685.08
    </td>
    <td style="text-align: right;">
-    15.3%
+    18.9%
+   </td>
+   <td style="text-align: right;">
+    14.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Deutsche Boerse AG
    </td>
    <td style="text-align: right;">
@@ -2021,14 +2240,17 @@
     2,155,548.60
    </td>
    <td style="text-align: right;">
-    14.4%
+    2,134,977.72
    </td>
    <td style="text-align: right;">
-    19.9%
+    13.9%
+   </td>
+   <td style="text-align: right;">
+    17.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Dubai Financial Market
    </td>
    <td style="text-align: right;">
@@ -2053,14 +2275,17 @@
     280,835.43
    </td>
    <td style="text-align: right;">
-    43.6%
+    269,802.98
    </td>
    <td style="text-align: right;">
-    43.6%
+    36.6%
+   </td>
+   <td style="text-align: right;">
+    36.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Euronext
    </td>
    <td style="text-align: right;">
@@ -2085,14 +2310,17 @@
     5,591,481.79
    </td>
    <td style="text-align: right;">
-    -4.7%
+    5,617,421.22
    </td>
    <td style="text-align: right;">
-    -0.1%
+    -2.2%
+   </td>
+   <td style="text-align: right;">
+    0.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Ghana Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2117,14 +2345,17 @@
     14,255.62
    </td>
    <td style="text-align: right;">
-    137.2%
+    14,594.94
    </td>
    <td style="text-align: right;">
-    56.5%
+    148.1%
+   </td>
+   <td style="text-align: right;">
+    62.5%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Iran Fara Bourse Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -2146,17 +2377,20 @@
     23,812.37
    </td>
    <td style="text-align: right;">
-    24,985.47
+    25,333.52
    </td>
    <td style="text-align: right;">
-    -12.7%
+    25,232.89
    </td>
    <td style="text-align: right;">
-    42.3%
+    -5.8%
+   </td>
+   <td style="text-align: right;">
+    47.7%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Johannesburg Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2178,17 +2412,20 @@
     1,141,266.95
    </td>
    <td style="text-align: right;">
-    1,093,314.66
+    1,153,722.64
    </td>
    <td style="text-align: right;">
-    6.3%
+    1,118,586.35
    </td>
    <td style="text-align: right;">
-    7.9%
+    7.3%
+   </td>
+   <td style="text-align: right;">
+    11.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Ljubljana Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2213,14 +2450,17 @@
     15,064.48
    </td>
    <td style="text-align: right;">
-    37.0%
+    14,940.17
    </td>
    <td style="text-align: right;">
-    43.6%
+    42.3%
+   </td>
+   <td style="text-align: right;">
+    46.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Luxembourg Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2245,14 +2485,17 @@
     44,851.52
    </td>
    <td style="text-align: right;">
-    11.0%
+    46,089.98
    </td>
    <td style="text-align: right;">
-    16.3%
+    15.2%
+   </td>
+   <td style="text-align: right;">
+    18.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Malta Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2277,14 +2520,17 @@
     3,948.70
    </td>
    <td style="text-align: right;">
-    -4.3%
+    3,962.64
    </td>
    <td style="text-align: right;">
-    0.2%
+    -3.7%
+   </td>
+   <td style="text-align: right;">
+    -1.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     MERJ Exchange Limited
    </td>
    <td style="text-align: right;">
@@ -2309,14 +2555,17 @@
     771.80
    </td>
    <td style="text-align: right;">
-    8.6%
+    883.86
    </td>
    <td style="text-align: right;">
-    14.8%
+    12.8%
+   </td>
+   <td style="text-align: right;">
+    17.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Muscat Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2338,17 +2587,20 @@
     33,481.77
    </td>
    <td style="text-align: right;">
-    35,322.32
+    34,970.87
    </td>
    <td style="text-align: right;">
-    48.2%
+    35,723.07
    </td>
    <td style="text-align: right;">
-    48.2%
+    47.8%
+   </td>
+   <td style="text-align: right;">
+    47.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Nairobi Securities Exchange
    </td>
    <td style="text-align: right;">
@@ -2373,14 +2625,17 @@
     19,537.28
    </td>
    <td style="text-align: right;">
-    52.7%
+    21,046.89
    </td>
    <td style="text-align: right;">
-    52.8%
+    67.3%
+   </td>
+   <td style="text-align: right;">
+    67.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Namibian Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2402,17 +2657,20 @@
     2,744.15
    </td>
    <td style="text-align: right;">
-    2,684.69
+    2,679.05
    </td>
    <td style="text-align: right;">
-    7.5%
+    2,691.33
    </td>
    <td style="text-align: right;">
-    9.1%
+    5.1%
+   </td>
+   <td style="text-align: right;">
+    9.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Nasdaq Nordic and Baltics
    </td>
    <td style="text-align: right;">
@@ -2437,14 +2695,17 @@
     1,583,255.34
    </td>
    <td style="text-align: right;">
-    -16.9%
+    1,604,024.35
    </td>
    <td style="text-align: right;">
-    -12.9%
+    -15.7%
+   </td>
+   <td style="text-align: right;">
+    -13.4%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Nigerian Exchange
    </td>
    <td style="text-align: right;">
@@ -2469,14 +2730,17 @@
     71,805.68
    </td>
    <td style="text-align: right;">
-    71.3%
+    71,917.51
    </td>
    <td style="text-align: right;">
-    63.8%
+    67.2%
+   </td>
+   <td style="text-align: right;">
+    66.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Palestine Exchange
    </td>
    <td style="text-align: right;">
@@ -2501,14 +2765,17 @@
     4,641.03
    </td>
    <td style="text-align: right;">
-    13.0%
+    4,466.37
    </td>
    <td style="text-align: right;">
-    13.0%
+    9.8%
+   </td>
+   <td style="text-align: right;">
+    9.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Prague Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2533,14 +2800,17 @@
     48,307.88
    </td>
    <td style="text-align: right;">
-    44.6%
+    49,807.87
    </td>
    <td style="text-align: right;">
-    35.4%
+    49.3%
+   </td>
+   <td style="text-align: right;">
+    44.8%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Qatar Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2565,14 +2835,17 @@
     183,296.30
    </td>
    <td style="text-align: right;">
-    13.9%
+    175,838.61
    </td>
    <td style="text-align: right;">
-    13.9%
+    8.4%
+   </td>
+   <td style="text-align: right;">
+    8.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Rwanda Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2597,14 +2870,17 @@
     2,711.89
    </td>
    <td style="text-align: right;">
-    -3.9%
+    3,224.81
    </td>
    <td style="text-align: right;">
-    3.3%
+    15.7%
+   </td>
+   <td style="text-align: right;">
+    23.0%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Saudi Exchange (Tadawul)
    </td>
    <td style="text-align: right;">
@@ -2629,14 +2905,17 @@
     2,419,443.32
    </td>
    <td style="text-align: right;">
-    -10.7%
+    2,371,504.69
    </td>
    <td style="text-align: right;">
-    -10.7%
+    -13.3%
+   </td>
+   <td style="text-align: right;">
+    -13.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     SIX Swiss Exchange
    </td>
    <td style="text-align: right;">
@@ -2661,14 +2940,17 @@
     2,237,086.55
    </td>
    <td style="text-align: right;">
-    4.6%
+    2,282,723.37
    </td>
    <td style="text-align: right;">
-    -2.1%
+    2.4%
+   </td>
+   <td style="text-align: right;">
+    -0.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Stock Exchange of Mauritius
    </td>
    <td style="text-align: right;">
@@ -2693,14 +2975,17 @@
     9,285.29
    </td>
    <td style="text-align: right;">
-    11.2%
+    9,309.13
    </td>
    <td style="text-align: right;">
-    9.1%
+    7.3%
+   </td>
+   <td style="text-align: right;">
+    5.6%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Tehran Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2722,17 +3007,20 @@
     139,748.15
    </td>
    <td style="text-align: right;">
-    153,647.46
+    139,835.27
    </td>
    <td style="text-align: right;">
-    -4.6%
+    123,580.73
    </td>
    <td style="text-align: right;">
-    54.1%
+    -19.6%
+   </td>
+   <td style="text-align: right;">
+    7.3%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Tel-Aviv Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2754,17 +3042,20 @@
     423,052.36
    </td>
    <td style="text-align: right;">
-    406,942.10
+    433,533.47
    </td>
    <td style="text-align: right;">
-    54.5%
+    437,837.79
    </td>
    <td style="text-align: right;">
-    44.9%
+    54.2%
+   </td>
+   <td style="text-align: right;">
+    48.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     The Egyptian Exchange
    </td>
    <td style="text-align: right;">
@@ -2789,14 +3080,17 @@
     48,218.71
    </td>
    <td style="text-align: right;">
-    16.6%
+    49,497.66
    </td>
    <td style="text-align: right;">
-    19.5%
+    14.5%
+   </td>
+   <td style="text-align: right;">
+    17.2%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Tunis Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2818,17 +3112,20 @@
     10,016.78
    </td>
    <td style="text-align: right;">
-    10,049.06
+    10,221.14
    </td>
    <td style="text-align: right;">
-    20.3%
+    10,335.43
    </td>
    <td style="text-align: right;">
-    17.5%
+    21.3%
+   </td>
+   <td style="text-align: right;">
+    19.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Vienna Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2850,17 +3147,20 @@
     135,066.88
    </td>
    <td style="text-align: right;">
-    145,079.54
+    143,764.33
    </td>
    <td style="text-align: right;">
-    19.4%
+    139,769.85
    </td>
    <td style="text-align: right;">
-    14.8%
+    15.8%
+   </td>
+   <td style="text-align: right;">
+    18.9%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Warsaw Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2885,14 +3185,17 @@
     287,035.07
    </td>
    <td style="text-align: right;">
-    32.5%
+    274,402.68
    </td>
    <td style="text-align: right;">
-    25.3%
+    24.3%
+   </td>
+   <td style="text-align: right;">
+    20.1%
    </td>
   </tr>
-  <tr height="17">
-   <td height="17">
+  <tr height="18">
+   <td height="18">
     Zagreb Stock Exchange
    </td>
    <td style="text-align: right;">
@@ -2917,14 +3220,17 @@
     28,506.78
    </td>
    <td style="text-align: right;">
-    21.1%
+    28,049.61
    </td>
    <td style="text-align: right;">
-    26.9%
+    22.4%
+   </td>
+   <td style="text-align: right;">
+    25.7%
    </td>
   </tr>
-  <tr height="18">
-   <td height="18">
+  <tr height="19">
+   <td height="19">
     Total for EMEA
    </td>
    <td style="text-align: right;">
@@ -2943,13 +3249,16 @@
     19,565,716.29
    </td>
    <td style="text-align: right;">
-    19,607,333.55
+    19,499,796.99
    </td>
    <td style="text-align: right;">
-    19,641,651.99
+    19,691,318.28
    </td>
    <td style="text-align: right;">
-    1.7%
+    19,645,203.83
+   </td>
+   <td style="text-align: right;">
+    1.8%
    </td>
    <td style="text-align: right;">
     <br/>
@@ -2958,6 +3267,9 @@
   <tr height="20">
    <td colspan="9" height="20">
     Note: Where no more than two consecutive values from an exchange were missing, WFE office interpolated them.
+   </td>
+   <td>
+    <br/>
    </td>
    <td>
     <br/>
