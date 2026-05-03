@@ -1,518 +1,500 @@
 [
     {
         "stock_exchange": "Nasdaq - US",
-        "market_cap": 36942114.76,
+        "market_cap": 34998500.0,
         "country_img_url": "https://flagcdn.com/w40/us.webp",
         "rank": 1
     },
     {
         "stock_exchange": "NYSE",
-        "market_cap": 31861989.26,
+        "market_cap": 30964048.55,
         "country_img_url": "https://flagcdn.com/w40/us.webp",
         "rank": 2
     },
     {
         "stock_exchange": "Shanghai Stock Exchange",
-        "market_cap": 9942364.88,
+        "market_cap": 10185996.7,
         "country_img_url": "https://flagcdn.com/w40/cn.webp",
         "rank": 3
     },
     {
-        "stock_exchange": "Japan Exchange Group",
-        "market_cap": 8794504.56,
-        "country_img_url": "https://flagcdn.com/w40/jp.webp",
+        "stock_exchange": "Euronext",
+        "market_cap": 8678440.56,
+        "country_img_url": "https://flagcdn.com/w40/eu.webp",
         "rank": 4
     },
     {
-        "stock_exchange": "Euronext",
-        "market_cap": 8448152.02,
-        "country_img_url": "https://flagcdn.com/w40/eu.webp",
+        "stock_exchange": "Japan Exchange Group",
+        "market_cap": 7643430.36,
+        "country_img_url": "https://flagcdn.com/w40/jp.webp",
         "rank": 5
     },
     {
         "stock_exchange": "Shenzhen Stock Exchange",
-        "market_cap": 6679042.24,
+        "market_cap": 6362336.18,
         "country_img_url": "https://flagcdn.com/w40/cn.webp",
         "rank": 6
     },
     {
         "stock_exchange": "Hong Kong Exchanges and Clearing",
-        "market_cap": 6375567.05,
+        "market_cap": 5859852.86,
         "country_img_url": "https://flagcdn.com/w40/hk.webp",
         "rank": 7
     },
     {
-        "stock_exchange": "BSE India Limited",
-        "market_cap": 5082107.17,
-        "country_img_url": "",
+        "stock_exchange": "TMX Group",
+        "market_cap": 4710982.4,
+        "country_img_url": "https://flagcdn.com/w40/ca.webp",
         "rank": 8
     },
     {
         "stock_exchange": "National Stock Exchange of India",
-        "market_cap": 5075425.56,
+        "market_cap": 4336638.96,
         "country_img_url": "https://flagcdn.com/w40/in.webp",
         "rank": 9
     },
     {
-        "stock_exchange": "TMX Group",
-        "market_cap": 5025983.8,
-        "country_img_url": "https://flagcdn.com/w40/ca.webp",
+        "stock_exchange": "BSE India Limited",
+        "market_cap": 4334396.98,
+        "country_img_url": "",
         "rank": 10
     },
     {
-        "stock_exchange": "Korea Exchange",
-        "market_cap": 4017797.67,
-        "country_img_url": "https://flagcdn.com/w40/kr.webp",
+        "stock_exchange": "Taiwan Stock Exchange",
+        "market_cap": 3234970.49,
+        "country_img_url": "https://flagcdn.com/w40/tw.webp",
         "rank": 11
     },
     {
-        "stock_exchange": "Taiwan Stock Exchange",
-        "market_cap": 3695845.8,
-        "country_img_url": "https://flagcdn.com/w40/tw.webp",
+        "stock_exchange": "Korea Exchange",
+        "market_cap": 3111037.77,
+        "country_img_url": "https://flagcdn.com/w40/kr.webp",
         "rank": 12
     },
     {
         "stock_exchange": "Deutsche Boerse AG",
-        "market_cap": 3020733.49,
+        "market_cap": 2661100.88,
         "country_img_url": "https://flagcdn.com/w40/de.webp",
         "rank": 13
     },
     {
-        "stock_exchange": "SIX Swiss Exchange",
-        "market_cap": 2764796.31,
-        "country_img_url": "https://flagcdn.com/w40/ch.webp",
+        "stock_exchange": "Saudi Exchange (Tadawul)",
+        "market_cap": 2635675.13,
+        "country_img_url": "https://flagcdn.com/w40/sa.webp",
         "rank": 14
     },
     {
-        "stock_exchange": "Nasdaq Nordic and Baltics",
-        "market_cap": 2454551.15,
-        "country_img_url": "https://flagcdn.com/w40/nc.webp",
+        "stock_exchange": "SIX Swiss Exchange",
+        "market_cap": 2448722.51,
+        "country_img_url": "https://flagcdn.com/w40/ch.webp",
         "rank": 15
     },
     {
-        "stock_exchange": "Saudi Exchange (Tadawul)",
-        "market_cap": 2441965.97,
-        "country_img_url": "https://flagcdn.com/w40/sa.webp",
+        "stock_exchange": "ASX Australian Securities Exchange",
+        "market_cap": 2253573.63,
+        "country_img_url": "https://flagcdn.com/w40/au.webp",
         "rank": 16
     },
     {
-        "stock_exchange": "ASX Australian Securities Exchange",
-        "market_cap": 2291049.06,
-        "country_img_url": "https://flagcdn.com/w40/au.webp",
+        "stock_exchange": "Nasdaq Nordic and Baltics",
+        "market_cap": 2210257.81,
+        "country_img_url": "https://flagcdn.com/w40/nc.webp",
         "rank": 17
     },
     {
-        "stock_exchange": "Johannesburg Stock Exchange",
-        "market_cap": 1465202.3,
-        "country_img_url": "https://flagcdn.com/w40/za.webp",
+        "stock_exchange": "BME Spanish Exchanges",
+        "market_cap": 1430202.59,
+        "country_img_url": "https://flagcdn.com/w40/es.webp",
         "rank": 18
     },
     {
-        "stock_exchange": "BME Spanish Exchanges",
-        "market_cap": 1363406.08,
-        "country_img_url": "https://flagcdn.com/w40/es.webp",
+        "stock_exchange": "Johannesburg Stock Exchange",
+        "market_cap": 1380619.32,
+        "country_img_url": "https://flagcdn.com/w40/za.webp",
         "rank": 19
     },
     {
         "stock_exchange": "B3 - Brasil Bolsa Balc\u00e3o",
-        "market_cap": 1068429.26,
+        "market_cap": 1037172.13,
         "country_img_url": "https://flagcdn.com/w40/br.webp",
         "rank": 20
     },
     {
         "stock_exchange": "Singapore Exchange",
-        "market_cap": 888880.35,
+        "market_cap": 851365.52,
         "country_img_url": "https://flagcdn.com/w40/sg.webp",
         "rank": 21
     },
     {
-        "stock_exchange": "Indonesia Stock Exchange",
-        "market_cap": 881726.61,
-        "country_img_url": "https://flagcdn.com/w40/id.webp",
+        "stock_exchange": "Abu Dhabi Securities Exchange",
+        "market_cap": 753339.02,
+        "country_img_url": "https://flagcdn.com/w40/ae.webp",
         "rank": 22
     },
     {
-        "stock_exchange": "Abu Dhabi Securities Exchange",
-        "market_cap": 854225.13,
-        "country_img_url": "https://flagcdn.com/w40/ae.webp",
+        "stock_exchange": "Indonesia Stock Exchange",
+        "market_cap": 730927.19,
+        "country_img_url": "https://flagcdn.com/w40/id.webp",
         "rank": 23
     },
     {
         "stock_exchange": "Bolsa Mexicana de Valores",
-        "market_cap": 636371.24,
+        "market_cap": 592606.86,
         "country_img_url": "https://flagcdn.com/w40/mx.webp",
         "rank": 24
     },
     {
         "stock_exchange": "The Stock Exchange of Thailand",
-        "market_cap": 628929.91,
+        "market_cap": 561758.34,
         "country_img_url": "https://flagcdn.com/w40/th.webp",
         "rank": 25
     },
     {
         "stock_exchange": "Bursa Malaysia",
-        "market_cap": 521539.57,
+        "market_cap": 493781.06,
         "country_img_url": "https://flagcdn.com/w40/my.webp",
         "rank": 26
     },
     {
         "stock_exchange": "Borsa Istanbul",
-        "market_cap": 468156.31,
+        "market_cap": 440687.45,
         "country_img_url": "https://flagcdn.com/w40/tr.webp",
         "rank": 27
     },
     {
         "stock_exchange": "Warsaw Stock Exchange",
-        "market_cap": 344535.2,
+        "market_cap": 321874.64,
         "country_img_url": "https://flagcdn.com/w40/pl.webp",
         "rank": 28
     },
     {
         "stock_exchange": "Hochiminh Stock Exchange",
-        "market_cap": 338852.92,
+        "market_cap": 298935.91,
         "country_img_url": "https://flagcdn.com/w40/vn.webp",
         "rank": 29
     },
     {
         "stock_exchange": "Bolsa de Comercio de Santiago",
-        "market_cap": 283920.81,
+        "market_cap": 289311.93,
         "country_img_url": "https://flagcdn.com/w40/cl.webp",
         "rank": 30
     },
     {
-        "stock_exchange": "Dubai Financial Market",
-        "market_cap": 280027.71,
-        "country_img_url": "https://flagcdn.com/w40/ae.webp",
+        "stock_exchange": "Taipei Exchange",
+        "market_cap": 254435.16,
+        "country_img_url": "https://flagcdn.com/w40/tw.webp",
         "rank": 31
     },
     {
-        "stock_exchange": "Taipei Exchange",
-        "market_cap": 267910.13,
-        "country_img_url": "https://flagcdn.com/w40/tw.webp",
+        "stock_exchange": "Dubai Financial Market",
+        "market_cap": 235680.14,
+        "country_img_url": "https://flagcdn.com/w40/ae.webp",
         "rank": 32
     },
     {
         "stock_exchange": "Philippine Stock Exchange",
-        "market_cap": 247983.18,
+        "market_cap": 235232.07,
         "country_img_url": "https://flagcdn.com/w40/ph.webp",
         "rank": 33
     },
     {
         "stock_exchange": "Vienna Stock Exchange",
-        "market_cap": 226105.69,
+        "market_cap": 209049.42,
         "country_img_url": "https://flagcdn.com/w40/at.webp",
         "rank": 34
     },
     {
-        "stock_exchange": "Qatar Stock Exchange",
-        "market_cap": 182636.45,
+        "stock_exchange": "Bolsa Electronica de Chile",
+        "market_cap": 171819.92,
         "country_img_url": "",
         "rank": 35
     },
     {
-        "stock_exchange": "Bolsa Electronica de Chile",
-        "market_cap": 175266.16,
+        "stock_exchange": "Qatar Stock Exchange",
+        "market_cap": 164902.5,
         "country_img_url": "",
         "rank": 36
     },
     {
-        "stock_exchange": "Bolsa de Valores de Colombia",
-        "market_cap": 143212.86,
-        "country_img_url": "https://flagcdn.com/w40/co.webp",
+        "stock_exchange": "Boursa Kuwait",
+        "market_cap": 163365.7,
+        "country_img_url": "https://flagcdn.com/w40/kw.webp",
         "rank": 37
     },
     {
-        "stock_exchange": "Athens Stock Exchange",
-        "market_cap": 135742.17,
-        "country_img_url": "https://flagcdn.com/w40/gr.webp",
+        "stock_exchange": "Bolsa de Valores de Colombia",
+        "market_cap": 151829.92,
+        "country_img_url": "https://flagcdn.com/w40/co.webp",
         "rank": 38
     },
     {
         "stock_exchange": "Tehran Stock Exchange",
-        "market_cap": 127405.35,
+        "market_cap": 122044.9,
         "country_img_url": "https://flagcdn.com/w40/ir.webp",
         "rank": 39
     },
     {
-        "stock_exchange": "Bourse de Casablanca",
-        "market_cap": 119543.41,
-        "country_img_url": "https://flagcdn.com/w40/ma.webp",
+        "stock_exchange": "Athens Stock Exchange",
+        "market_cap": 121753.79,
+        "country_img_url": "https://flagcdn.com/w40/gr.webp",
         "rank": 40
     },
     {
-        "stock_exchange": "Nigerian Exchange",
-        "market_cap": 110340.16,
-        "country_img_url": "https://flagcdn.com/w40/ng.webp",
+        "stock_exchange": "Bolsa de Valores de Lima",
+        "market_cap": 119399.9,
+        "country_img_url": "https://flagcdn.com/w40/pe.webp",
         "rank": 41
     },
     {
-        "stock_exchange": "NZX Limited",
-        "market_cap": 108607.58,
-        "country_img_url": "https://flagcdn.com/w40/nz.webp",
+        "stock_exchange": "Bourse de Casablanca",
+        "market_cap": 116778.22,
+        "country_img_url": "https://flagcdn.com/w40/ma.webp",
         "rank": 42
     },
     {
-        "stock_exchange": "Bolsa de Valores de Lima",
-        "market_cap": 102638.96,
-        "country_img_url": "https://flagcdn.com/w40/pe.webp",
+        "stock_exchange": "Nigerian Exchange",
+        "market_cap": 111889.3,
+        "country_img_url": "https://flagcdn.com/w40/ng.webp",
         "rank": 43
     },
     {
         "stock_exchange": "Astana International Exchange",
-        "market_cap": 98459.21,
+        "market_cap": 111788.81,
         "country_img_url": "https://flagcdn.com/w40/kz.webp",
         "rank": 44
     },
     {
-        "stock_exchange": "Kazakhstan Stock Exchange",
-        "market_cap": 89801.36,
-        "country_img_url": "https://flagcdn.com/w40/kz.webp",
+        "stock_exchange": "NZX Limited",
+        "market_cap": 98359.64,
+        "country_img_url": "https://flagcdn.com/w40/nz.webp",
         "rank": 45
     },
     {
-        "stock_exchange": "Luxembourg Stock Exchange",
-        "market_cap": 86085.49,
-        "country_img_url": "https://flagcdn.com/w40/lu.webp",
+        "stock_exchange": "Kazakhstan Stock Exchange",
+        "market_cap": 97191.81,
+        "country_img_url": "https://flagcdn.com/w40/kz.webp",
         "rank": 46
     },
     {
         "stock_exchange": "Bucharest Stock Exchange",
-        "market_cap": 80848.8,
+        "market_cap": 79024.32,
         "country_img_url": "https://flagcdn.com/w40/ro.webp",
         "rank": 47
     },
     {
-        "stock_exchange": "Budapest Stock Exchange",
-        "market_cap": 70700.06,
-        "country_img_url": "https://flagcdn.com/w40/hu.webp",
+        "stock_exchange": "Luxembourg Stock Exchange",
+        "market_cap": 76092.27,
+        "country_img_url": "https://flagcdn.com/w40/lu.webp",
         "rank": 48
     },
     {
-        "stock_exchange": "The Egyptian Exchange",
-        "market_cap": 67764.46,
-        "country_img_url": "https://flagcdn.com/w40/eg.webp",
+        "stock_exchange": "Budapest Stock Exchange",
+        "market_cap": 63912.5,
+        "country_img_url": "https://flagcdn.com/w40/hu.webp",
         "rank": 49
     },
     {
-        "stock_exchange": "Pakistan Stock Exchange",
-        "market_cap": 67713.73,
-        "country_img_url": "https://flagcdn.com/w40/pk.webp",
+        "stock_exchange": "The Egyptian Exchange",
+        "market_cap": 59268.87,
+        "country_img_url": "https://flagcdn.com/w40/eg.webp",
         "rank": 50
     },
     {
-        "stock_exchange": "National Equities Exchange and Quotations",
-        "market_cap": 54429.55,
-        "country_img_url": "https://flagcdn.com/w40/cn.webp",
+        "stock_exchange": "Pakistan Stock Exchange",
+        "market_cap": 59196.72,
+        "country_img_url": "https://flagcdn.com/w40/pk.webp",
         "rank": 51
     },
     {
-        "stock_exchange": "Prague Stock Exchange",
-        "market_cap": 53020.08,
-        "country_img_url": "https://flagcdn.com/w40/cz.webp",
+        "stock_exchange": "National Equities Exchange and Quotations",
+        "market_cap": 54094.64,
+        "country_img_url": "https://flagcdn.com/w40/cn.webp",
         "rank": 52
     },
     {
-        "stock_exchange": "Muscat Stock Exchange",
-        "market_cap": 43601.57,
-        "country_img_url": "",
+        "stock_exchange": "Prague Stock Exchange",
+        "market_cap": 50807.77,
+        "country_img_url": "https://flagcdn.com/w40/cz.webp",
         "rank": 53
     },
     {
-        "stock_exchange": "Zagreb Stock Exchange",
-        "market_cap": 38841.74,
-        "country_img_url": "https://flagcdn.com/w40/hr.webp",
+        "stock_exchange": "Amman Stock Exchange",
+        "market_cap": 39200.89,
+        "country_img_url": "https://flagcdn.com/w40/jo.webp",
         "rank": 54
     },
     {
-        "stock_exchange": "Amman Stock Exchange",
-        "market_cap": 38141.99,
-        "country_img_url": "https://flagcdn.com/w40/jo.webp",
+        "stock_exchange": "Zagreb Stock Exchange",
+        "market_cap": 36988.6,
+        "country_img_url": "https://flagcdn.com/w40/hr.webp",
         "rank": 55
     },
     {
-        "stock_exchange": "Cyprus Stock Exchange",
-        "market_cap": 30649.74,
-        "country_img_url": "https://flagcdn.com/w40/cy.webp",
+        "stock_exchange": "Bolsa Latinoamericana de Valores (Latinex)",
+        "market_cap": 33028.0,
+        "country_img_url": "https://flagcdn.com/w40/pa.webp",
         "rank": 56
     },
     {
-        "stock_exchange": "Dhaka Stock Exchange",
-        "market_cap": 29551.4,
+        "stock_exchange": "Tashkent Stock Exchange",
+        "market_cap": 27882.97,
         "country_img_url": "",
         "rank": 57
     },
     {
-        "stock_exchange": "Colombo Stock Exchange",
-        "market_cap": 29144.84,
-        "country_img_url": "https://flagcdn.com/w40/lk.webp",
+        "stock_exchange": "BRVM",
+        "market_cap": 27723.19,
+        "country_img_url": "https://flagcdn.com/w40/ci.webp",
         "rank": 58
     },
     {
-        "stock_exchange": "Bolsa Latinoamericana de Valores (Latinex)",
-        "market_cap": 27540.1,
-        "country_img_url": "https://flagcdn.com/w40/pa.webp",
+        "stock_exchange": "Dhaka Stock Exchange",
+        "market_cap": 27198.13,
+        "country_img_url": "",
         "rank": 59
     },
     {
-        "stock_exchange": "Tashkent Stock Exchange",
-        "market_cap": 26443.63,
-        "country_img_url": "",
+        "stock_exchange": "Nairobi Securities Exchange",
+        "market_cap": 26573.59,
+        "country_img_url": "https://flagcdn.com/w40/ke.webp",
         "rank": 60
     },
     {
-        "stock_exchange": "Nairobi Securities Exchange",
-        "market_cap": 26436.73,
-        "country_img_url": "https://flagcdn.com/w40/ke.webp",
+        "stock_exchange": "Cyprus Stock Exchange",
+        "market_cap": 26407.24,
+        "country_img_url": "https://flagcdn.com/w40/cy.webp",
         "rank": 61
     },
     {
-        "stock_exchange": "BRVM",
-        "market_cap": 25749.83,
-        "country_img_url": "https://flagcdn.com/w40/ci.webp",
+        "stock_exchange": "Colombo Stock Exchange",
+        "market_cap": 23864.98,
+        "country_img_url": "https://flagcdn.com/w40/lk.webp",
         "rank": 62
     },
     {
         "stock_exchange": "Ljubljana Stock Exchange",
-        "market_cap": 24894.47,
+        "market_cap": 22993.13,
         "country_img_url": "https://flagcdn.com/w40/si.webp",
         "rank": 63
     },
     {
-        "stock_exchange": "Iran Fara Bourse Securities Exchange",
-        "market_cap": 23743.31,
-        "country_img_url": "https://flagcdn.com/w40/ir.webp",
+        "stock_exchange": "Ghana Stock Exchange",
+        "market_cap": 22197.4,
+        "country_img_url": "https://flagcdn.com/w40/gh.webp",
         "rank": 64
     },
     {
-        "stock_exchange": "Ghana Stock Exchange",
-        "market_cap": 22083.02,
-        "country_img_url": "https://flagcdn.com/w40/gh.webp",
+        "stock_exchange": "Bahrain Bourse",
+        "market_cap": 19490.93,
+        "country_img_url": "https://flagcdn.com/w40/bh.webp",
         "rank": 65
     },
     {
-        "stock_exchange": "Bahrain Bourse",
-        "market_cap": 21204.96,
-        "country_img_url": "https://flagcdn.com/w40/bh.webp",
+        "stock_exchange": "Lusaka Securities Exchange",
+        "market_cap": 17747.63,
+        "country_img_url": "https://flagcdn.com/w40/zm.webp",
         "rank": 66
     },
     {
-        "stock_exchange": "Lusaka Securities Exchange",
-        "market_cap": 17323.18,
-        "country_img_url": "https://flagcdn.com/w40/zm.webp",
+        "stock_exchange": "Canadian Securities Exchange",
+        "market_cap": 15363.61,
+        "country_img_url": "https://flagcdn.com/w40/ca.webp",
         "rank": 67
     },
     {
-        "stock_exchange": "Boursa Kuwait",
-        "market_cap": 16933.19,
-        "country_img_url": "https://flagcdn.com/w40/kw.webp",
+        "stock_exchange": "Tunis Stock Exchange",
+        "market_cap": 12924.39,
+        "country_img_url": "https://flagcdn.com/w40/tn.webp",
         "rank": 68
     },
     {
-        "stock_exchange": "Canadian Securities Exchange",
-        "market_cap": 16202.11,
-        "country_img_url": "https://flagcdn.com/w40/ca.webp",
+        "stock_exchange": "Jamaica Stock Exchange",
+        "market_cap": 12682.34,
+        "country_img_url": "https://flagcdn.com/w40/jm.webp",
         "rank": 69
     },
     {
-        "stock_exchange": "Jamaica Stock Exchange",
-        "market_cap": 12822.87,
-        "country_img_url": "https://flagcdn.com/w40/jm.webp",
+        "stock_exchange": "Bulgarian Stock Exchange",
+        "market_cap": 11295.43,
+        "country_img_url": "https://flagcdn.com/w40/bg.webp",
         "rank": 70
     },
     {
-        "stock_exchange": "Tunis Stock Exchange",
-        "market_cap": 12671.22,
-        "country_img_url": "https://flagcdn.com/w40/tn.webp",
+        "stock_exchange": "Dar Es Salaam Stock Exchange",
+        "market_cap": 10946.05,
+        "country_img_url": "https://flagcdn.com/w40/tz.webp",
         "rank": 71
     },
     {
-        "stock_exchange": "Bulgarian Stock Exchange",
-        "market_cap": 12008.04,
-        "country_img_url": "https://flagcdn.com/w40/bg.webp",
+        "stock_exchange": "Stock Exchange of Mauritius",
+        "market_cap": 8225.37,
+        "country_img_url": "https://flagcdn.com/w40/mu.webp",
         "rank": 72
     },
     {
-        "stock_exchange": "Dar Es Salaam Stock Exchange",
-        "market_cap": 10450.91,
-        "country_img_url": "https://flagcdn.com/w40/tz.webp",
+        "stock_exchange": "Belarusian Currency and Stock Exchange",
+        "market_cap": 5854.99,
+        "country_img_url": "https://flagcdn.com/w40/by.webp",
         "rank": 73
     },
     {
-        "stock_exchange": "Stock Exchange of Mauritius",
-        "market_cap": 8632.21,
-        "country_img_url": "https://flagcdn.com/w40/mu.webp",
+        "stock_exchange": "Malta Stock Exchange",
+        "market_cap": 5667.45,
+        "country_img_url": "https://flagcdn.com/w40/mt.webp",
         "rank": 74
     },
     {
-        "stock_exchange": "Belarusian Currency and Stock Exchange",
-        "market_cap": 7390.63,
-        "country_img_url": "https://flagcdn.com/w40/by.webp",
+        "stock_exchange": "Palestine Exchange",
+        "market_cap": 4868.31,
+        "country_img_url": "https://flagcdn.com/w40/ps.webp",
         "rank": 75
     },
     {
-        "stock_exchange": "Malta Stock Exchange",
-        "market_cap": 5584.98,
-        "country_img_url": "https://flagcdn.com/w40/mt.webp",
+        "stock_exchange": "Bolsa Nacional de Valores de Costa Rica",
+        "market_cap": 3920.72,
+        "country_img_url": "",
         "rank": 76
     },
     {
-        "stock_exchange": "Palestine Exchange",
-        "market_cap": 4856.25,
-        "country_img_url": "https://flagcdn.com/w40/ps.webp",
+        "stock_exchange": "Bratislava Stock Exchange",
+        "market_cap": 3593.22,
+        "country_img_url": "",
         "rank": 77
     },
     {
-        "stock_exchange": "Botswana Stock Exchange",
-        "market_cap": 4197.36,
-        "country_img_url": "https://flagcdn.com/w40/bw.webp",
+        "stock_exchange": "Namibia Securities Exchange",
+        "market_cap": 3487.99,
+        "country_img_url": "",
         "rank": 78
     },
     {
-        "stock_exchange": "Bolsa Nacional de Valores de Costa Rica",
-        "market_cap": 3868.69,
-        "country_img_url": "",
+        "stock_exchange": "Rwanda Stock Exchange",
+        "market_cap": 3314.69,
+        "country_img_url": "https://flagcdn.com/w40/rw.webp",
         "rank": 79
     },
     {
-        "stock_exchange": "Namibia Securities Exchange",
-        "market_cap": 3382.55,
-        "country_img_url": "",
+        "stock_exchange": "Bermuda Stock Exchange",
+        "market_cap": 2287.55,
+        "country_img_url": "https://flagcdn.com/w40/bm.webp",
         "rank": 80
     },
     {
-        "stock_exchange": "Rwanda Stock Exchange",
-        "market_cap": 3279.56,
-        "country_img_url": "https://flagcdn.com/w40/rw.webp",
+        "stock_exchange": "Baku Stock Exchange",
+        "market_cap": 1573.18,
+        "country_img_url": "https://flagcdn.com/w40/az.webp",
         "rank": 81
     },
     {
-        "stock_exchange": "Bratislava Stock Exchange",
-        "market_cap": 2898.6,
-        "country_img_url": "",
+        "stock_exchange": "MERJ Exchange Limited",
+        "market_cap": 697.46,
+        "country_img_url": "https://flagcdn.com/w40/sc.webp",
         "rank": 82
     },
     {
-        "stock_exchange": "Bermuda Stock Exchange",
-        "market_cap": 2318.77,
-        "country_img_url": "https://flagcdn.com/w40/bm.webp",
-        "rank": 83
-    },
-    {
-        "stock_exchange": "Baku Stock Exchange",
-        "market_cap": 1573.05,
-        "country_img_url": "https://flagcdn.com/w40/az.webp",
-        "rank": 84
-    },
-    {
-        "stock_exchange": "MERJ Exchange Limited",
-        "market_cap": 676.71,
-        "country_img_url": "https://flagcdn.com/w40/sc.webp",
-        "rank": 85
-    },
-    {
         "stock_exchange": "Royal Securities Exchange of Bhutan",
-        "market_cap": 613.41,
+        "market_cap": 586.46,
         "country_img_url": "",
-        "rank": 86
+        "rank": 83
     }
 ]
